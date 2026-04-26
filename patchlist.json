@@ -1,0 +1,1690 @@
+﻿{
+    "files":  [
+                  {
+                      "path":  "System/AbnormalDefaultEffect.dat",
+                      "size":  3632,
+                      "hash":  "f1c9020d082ea30fa28a9c1dc2ddb780"
+                  },
+                  {
+                      "path":  "System/AbnormalEdgeEffectData.dat",
+                      "size":  432,
+                      "hash":  "ded862f2d0a25065ed79500debca19c9"
+                  },
+                  {
+                      "path":  "System/ActionName-eu.dat",
+                      "size":  12592,
+                      "hash":  "0c6a63de17dbb5647e212666df85dcf1"
+                  },
+                  {
+                      "path":  "System/ActionName_Classic-eu.dat",
+                      "size":  11696,
+                      "hash":  "d07d9ab418f833b71e29a6c5d7d8667f"
+                  },
+                  {
+                      "path":  "System/AdditionalEffect.dat",
+                      "size":  2480,
+                      "hash":  "601e0a76ce2bda72069cbaafe582e58a"
+                  },
+                  {
+                      "path":  "System/AdditionalEffect_Classic.dat",
+                      "size":  1712,
+                      "hash":  "9b0d73b224077b36c1ddef2a1e9bc782"
+                  },
+                  {
+                      "path":  "System/AdditionalItemGrp.dat",
+                      "size":  91312,
+                      "hash":  "dedf0967e5f91a758b1724f1033d5447"
+                  },
+                  {
+                      "path":  "System/AdditionalItemGrp_Classic.dat",
+                      "size":  22448,
+                      "hash":  "f35e8f6bb5c78fb579a4a725280fd769"
+                  },
+                  {
+                      "path":  "System/AdditionalJewelEquipEffect.dat",
+                      "size":  304,
+                      "hash":  "11e589b326fa083b1272958c36c68e63"
+                  },
+                  {
+                      "path":  "System/AdditionalJewelEquipEffect_Classic.dat",
+                      "size":  688,
+                      "hash":  "d12119572302350be69906f6b0f3efda"
+                  },
+                  {
+                      "path":  "System/AdditionalNpcGrpParts.dat",
+                      "size":  1840,
+                      "hash":  "743d16a796e1f3d85bb45939ee1e0e84"
+                  },
+                  {
+                      "path":  "System/AdditionalNpcGrpParts_Classic.dat",
+                      "size":  176,
+                      "hash":  "347b7cd5ce9a87c5abdc872051070cb7"
+                  },
+                  {
+                      "path":  "System/AdditionalSoulshotEffect.dat",
+                      "size":  304,
+                      "hash":  "61225dc4280aa9a0f9d00bb5637858a7"
+                  },
+                  {
+                      "path":  "System/AdditionalSoulshotEffect_Classic.dat",
+                      "size":  432,
+                      "hash":  "3951560e0a64047259c0820c85f1464c"
+                  },
+                  {
+                      "path":  "System/agathiondata.dat",
+                      "size":  15152,
+                      "hash":  "27b29a136d7c341f925ecc81c6bfa594"
+                  },
+                  {
+                      "path":  "System/agathiondata_Classic.dat",
+                      "size":  2992,
+                      "hash":  "bd7f4c5cc6a426a59c2db5f04f1e0c1b"
+                  },
+                  {
+                      "path":  "System/ALAudio.dll",
+                      "size":  242176,
+                      "hash":  "9eb17b3200007dab1b99a20ba0ac8fb9"
+                  },
+                  {
+                      "path":  "System/ALAudio.int",
+                      "size":  4636,
+                      "hash":  "ad51687ce209bf503d7856bdd1e6c326"
+                  },
+                  {
+                      "path":  "System/AlchemyData.dat",
+                      "size":  1840,
+                      "hash":  "a0d0955e3e60c671021e5e069185ea73"
+                  },
+                  {
+                      "path":  "System/AlterSkillData.dat",
+                      "size":  560,
+                      "hash":  "60ebf2953862778615fc99380ba06d3f"
+                  },
+                  {
+                      "path":  "System/AnimationCombo.dat",
+                      "size":  2992,
+                      "hash":  "478abf48f8dc610d7095ce29a0a7b16e"
+                  },
+                  {
+                      "path":  "System/Armorgrp.dat",
+                      "size":  511536,
+                      "hash":  "135586e7075eaa417b052ba346d439ce"
+                  },
+                  {
+                      "path":  "System/Armorgrp_Classic.dat",
+                      "size":  113456,
+                      "hash":  "5c250ffde673dd77e9a736f073a721dc"
+                  },
+                  {
+                      "path":  "System/ArtifactData.dat",
+                      "size":  304,
+                      "hash":  "ef4f55108b543f8d17c9b0259c122302"
+                  },
+                  {
+                      "path":  "System/ArtifactEnchantSetting.dat",
+                      "size":  176,
+                      "hash":  "2902402b919d7ac2e76f11282e7f8146"
+                  },
+                  {
+                      "path":  "System/ArtifactTypeSetting.dat",
+                      "size":  176,
+                      "hash":  "b5e098c85497b05ef1c3b21e5818c069"
+                  },
+                  {
+                      "path":  "System/ArtifactUpgrade.dat",
+                      "size":  688,
+                      "hash":  "9c24015a27b66a723948a961be8a70ec"
+                  },
+                  {
+                      "path":  "System/avcodec-53.dll",
+                      "size":  1102424,
+                      "hash":  "3b0b3b0df088cacd91a116af38d67f37"
+                  },
+                  {
+                      "path":  "System/avformat-53.dll",
+                      "size":  193624,
+                      "hash":  "9b705b19d16f3d35e5175c0a304e06bd"
+                  },
+                  {
+                      "path":  "System/avutil-51.dll",
+                      "size":  126040,
+                      "hash":  "5d25e492836df0ae8b869ef9077f1ca8"
+                  },
+                  {
+                      "path":  "System/Awesomium.dll",
+                      "size":  21438776,
+                      "hash":  "b86a78256b8632cde4993321b31011aa"
+                  },
+                  {
+                      "path":  "System/AwesomiumProcess.exe",
+                      "size":  2079112,
+                      "hash":  "8fd54f1dee268dc90efefa659b69be81"
+                  },
+                  {
+                      "path":  "System/bdcap32.dll",
+                      "size":  11061280,
+                      "hash":  "4d5e157915e455cc18b2c3cbd0f8ce88"
+                  },
+                  {
+                      "path":  "System/BeastTimeEnv0.int",
+                      "size":  28126,
+                      "hash":  "2638b00d87f098ef57d87f99652916c5"
+                  },
+                  {
+                      "path":  "System/BeastTimeEnv1.int",
+                      "size":  28453,
+                      "hash":  "79e493669e552b3337d885c0d1be723a"
+                  },
+                  {
+                      "path":  "System/BeastTimeEnv2.int",
+                      "size":  27325,
+                      "hash":  "6b037a7b033b69db62261e0ae80aed24"
+                  },
+                  {
+                      "path":  "System/BeastTimeEnv3.int",
+                      "size":  28101,
+                      "hash":  "fdef3bb2b26a82075441eaa9249f7991"
+                  },
+                  {
+                      "path":  "System/BeastTimeEnv4.int",
+                      "size":  4922,
+                      "hash":  "4f6cbabb94d0b64fe67f0a7de68a2bc7"
+                  },
+                  {
+                      "path":  "System/BeastTimeEnv5.int",
+                      "size":  4992,
+                      "hash":  "b8b1d9308ae3d43687847ae4645c45ba"
+                  },
+                  {
+                      "path":  "System/beecrypt.dll",
+                      "size":  188416,
+                      "hash":  "ee39c50bdb41d173c869fd8ca50c067e"
+                  },
+                  {
+                      "path":  "System/bighead.int",
+                      "size":  1083,
+                      "hash":  "72b6df907a8b0a374445e34e8af8d49a"
+                  },
+                  {
+                      "path":  "System/CameraEffectInfo.u",
+                      "size":  1462,
+                      "hash":  "cb9e0871171cfda1e50a7a6ea2f24892"
+                  },
+                  {
+                      "path":  "System/CardCollectData-eu.dat",
+                      "size":  304,
+                      "hash":  "a9dc085e826745812dd4bac09ce5ac39"
+                  },
+                  {
+                      "path":  "System/CardCollectData_Classic-eu.dat",
+                      "size":  304,
+                      "hash":  "079c6e9619fe831c62a2b4d7977ea10e"
+                  },
+                  {
+                      "path":  "System/CastleName-eu.dat",
+                      "size":  1968,
+                      "hash":  "88129e762f72cc078f0bf47c4f382f2a"
+                  },
+                  {
+                      "path":  "System/CastleName_Classic-eu.dat",
+                      "size":  1968,
+                      "hash":  "54e81ba53518a59eab8b880ff885e76c"
+                  },
+                  {
+                      "path":  "System/cef.pak",
+                      "size":  2184260,
+                      "hash":  "3cefa0337b4d930d69905296098a5c80"
+                  },
+                  {
+                      "path":  "System/cef_100_percent.pak",
+                      "size":  468951,
+                      "hash":  "0ba9f12bda601671d11c1fc743003ed7"
+                  },
+                  {
+                      "path":  "System/cef_200_percent.pak",
+                      "size":  622967,
+                      "hash":  "ea978e7d62d540e68b19fec76fcc8acd"
+                  },
+                  {
+                      "path":  "System/CharacterInitialStatExData.dat",
+                      "size":  432,
+                      "hash":  "0e51ab16903c9e02a1638836550a6ef6"
+                  },
+                  {
+                      "path":  "System/CharCreategrp.dat",
+                      "size":  688,
+                      "hash":  "8a50ebd302d4528f7db9f11b2378386c"
+                  },
+                  {
+                      "path":  "System/CharCreategrp_Classic.dat",
+                      "size":  304,
+                      "hash":  "f05bc767e3fd406233b7ff551b391bd8"
+                  },
+                  {
+                      "path":  "System/Chargrp.dat",
+                      "size":  4784,
+                      "hash":  "799f07901904267424a46b895e3e7edb"
+                  },
+                  {
+                      "path":  "System/ChatFilter.ini",
+                      "size":  2420,
+                      "hash":  "0efd28b5645ee3db857362bd7323b864"
+                  },
+                  {
+                      "path":  "System/ClassInfo-eu.dat",
+                      "size":  4912,
+                      "hash":  "871dd53742b99a961e21ec091906f265"
+                  },
+                  {
+                      "path":  "System/ClassInfo_Classic-eu.dat",
+                      "size":  2480,
+                      "hash":  "ae371e2bacc35468bfcc701a3e111eee"
+                  },
+                  {
+                      "path":  "System/Cloak.int",
+                      "size":  434,
+                      "hash":  "7a0154f1249633cbc0372221b0c0b34a"
+                  },
+                  {
+                      "path":  "System/ColorExgrp.dat",
+                      "size":  560,
+                      "hash":  "d6e57420692926c0bd64e22ae17ee066"
+                  },
+                  {
+                      "path":  "System/ColorExName-eu.dat",
+                      "size":  944,
+                      "hash":  "916194dd84cd5e9dee934bfaa08ae7f4"
+                  },
+                  {
+                      "path":  "System/CombinationItemData.dat",
+                      "size":  10288,
+                      "hash":  "5134fd3e808d9ae78437860ae571eac9"
+                  },
+                  {
+                      "path":  "System/CombinationItemData_Classic.dat",
+                      "size":  3760,
+                      "hash":  "2488f449cd34a25172be2a0888d8d8ca"
+                  },
+                  {
+                      "path":  "System/CommandName-eu.dat",
+                      "size":  1840,
+                      "hash":  "4448b2ff18c1a124ba6da3103c1218e5"
+                  },
+                  {
+                      "path":  "System/CommandName_Classic-eu.dat",
+                      "size":  1584,
+                      "hash":  "16f510971a4e8ebc7ea600bb7282fa12"
+                  },
+                  {
+                      "path":  "System/Core.dll",
+                      "size":  1503744,
+                      "hash":  "18d3c3615d5a24b156b109982ac6cc25"
+                  },
+                  {
+                      "path":  "System/Core.int",
+                      "size":  3479,
+                      "hash":  "8164500b599dfe406a5390ab16a32b5c"
+                  },
+                  {
+                      "path":  "System/Core.u",
+                      "size":  38832,
+                      "hash":  "eb0f7bfb6c052ba8860da4155f379369"
+                  },
+                  {
+                      "path":  "System/Costume_Classic.dat",
+                      "size":  1328,
+                      "hash":  "7b55207bf8ad9f4ce55713c6575cde2c"
+                  },
+                  {
+                      "path":  "System/Costume_CollectionBonus_Classic.dat",
+                      "size":  176,
+                      "hash":  "57d96aae107b8e30a22146eab9e1858f"
+                  },
+                  {
+                      "path":  "System/Costume_Collection_Classic.dat",
+                      "size":  304,
+                      "hash":  "5d96e1b8ee0603ff7c0aab78fccbaa85"
+                  },
+                  {
+                      "path":  "System/Credit-eu.dat",
+                      "size":  4272,
+                      "hash":  "6f1ef5438803aba33a026f0f5792286d"
+                  },
+                  {
+                      "path":  "System/CreditFont.gly",
+                      "size":  181780,
+                      "hash":  "3d25f4f1dc6612716502d29776ec8fe9"
+                  },
+                  {
+                      "path":  "System/CubicEffectData.dat",
+                      "size":  304,
+                      "hash":  "ca409b4df879df27a659131b8059c697"
+                  },
+                  {
+                      "path":  "System/d3dcompiler_43.dll",
+                      "size":  2106216,
+                      "hash":  "1c9b45e87528b8bb8cfa884ea0099a85"
+                  },
+                  {
+                      "path":  "System/d3dcompiler_47.dll",
+                      "size":  3466856,
+                      "hash":  "c5b362bce86bb0ad3149c4540201331d"
+                  },
+                  {
+                      "path":  "System/D3DDrv.dll",
+                      "size":  811008,
+                      "hash":  "6f756109f6e51783827744fa37c6985c"
+                  },
+                  {
+                      "path":  "System/D3DDrv.int",
+                      "size":  402,
+                      "hash":  "51be7901cb9c4da7428706be450eaf39"
+                  },
+                  {
+                      "path":  "System/D3DX9_40.dll",
+                      "size":  4379984,
+                      "hash":  "eea5e428ce63804f9b12d21c97b5968f"
+                  },
+                  {
+                      "path":  "System/dbghelp.dll",
+                      "size":  1213200,
+                      "hash":  "4003e34416ebd25e4c115d49dc15e1a7"
+                  },
+                  {
+                      "path":  "System/DecoNPCData_client.dat",
+                      "size":  688,
+                      "hash":  "54e026fd7c5800b6e586499ce73a3ed9"
+                  },
+                  {
+                      "path":  "System/DefOpenAL32.dll",
+                      "size":  114688,
+                      "hash":  "f961a671738ee369c96abcf8bde9a613"
+                  },
+                  {
+                      "path":  "System/DSETUP.dll",
+                      "size":  62976,
+                      "hash":  "d3dcf192c9420cff748bf553b05edcd3"
+                  },
+                  {
+                      "path":  "System/DualCastTypeData.dat",
+                      "size":  176,
+                      "hash":  "88948e6f90a42338ff24913882bbfada"
+                  },
+                  {
+                      "path":  "System/DynamicContentsName-eu.dat",
+                      "size":  2864,
+                      "hash":  "4d6d0f162e6c10b5b60391489e11de7a"
+                  },
+                  {
+                      "path":  "System/Editor.u",
+                      "size":  558507,
+                      "hash":  "4e8dc5608880c86c584806ac05901ab0"
+                  },
+                  {
+                      "path":  "System/ElementalSpiritStat_Classic.dat",
+                      "size":  2864,
+                      "hash":  "fcb96e5cbc75225085989f4fef75e1a2"
+                  },
+                  {
+                      "path":  "System/ElementalSpirit_Classic.dat",
+                      "size":  1072,
+                      "hash":  "c92c16758f451634d4d236e23fa437e6"
+                  },
+                  {
+                      "path":  "System/EnchantedWeaponFlowEffectData.dat",
+                      "size":  1328,
+                      "hash":  "61c410eb59fc191574702573a0cf137b"
+                  },
+                  {
+                      "path":  "System/EnchantedWeaponFlowEffectData_Classic.dat",
+                      "size":  816,
+                      "hash":  "5c98a228bcf0434f014a188ba166a6a3"
+                  },
+                  {
+                      "path":  "System/EnchantStatBonus.dat",
+                      "size":  432,
+                      "hash":  "94dc8ba83981f3ea43dfb2d1fb6d43a5"
+                  },
+                  {
+                      "path":  "System/EnchantStatBonus_Classic.dat",
+                      "size":  432,
+                      "hash":  "de22687cbc212a719d620b9ffe31b58b"
+                  },
+                  {
+                      "path":  "System/encvag.dll",
+                      "size":  150528,
+                      "hash":  "139ed7165d08b87192b1c7388266797d"
+                  },
+                  {
+                      "path":  "System/Engine.dll",
+                      "size":  12805632,
+                      "hash":  "395e81edce3c09f70398f8a8823dbbb9"
+                  },
+                  {
+                      "path":  "System/Engine.int",
+                      "size":  6991,
+                      "hash":  "b8f413e9f7dd51dd781ba4cc2add134c"
+                  },
+                  {
+                      "path":  "System/Engine.u",
+                      "size":  1900690,
+                      "hash":  "312deba635b8021dccb6f0a27ca668b6"
+                  },
+                  {
+                      "path":  "System/ensoul_fee_client.dat",
+                      "size":  304,
+                      "hash":  "e1021b4f0d8749e84bd8dc3d75c0a0c9"
+                  },
+                  {
+                      "path":  "System/ensoul_fee_client_Classic.dat",
+                      "size":  304,
+                      "hash":  "3391e21d271854dab6a06185440a0404"
+                  },
+                  {
+                      "path":  "System/ensoul_option_client-eu.dat",
+                      "size":  10416,
+                      "hash":  "23fbe737cef00ff8d3eed3476f529a67"
+                  },
+                  {
+                      "path":  "System/ensoul_option_client_Classic-eu.dat",
+                      "size":  8496,
+                      "hash":  "c56ba42569952d1fbeee585ebc17a3c1"
+                  },
+                  {
+                      "path":  "System/ensoul_stone_client.dat",
+                      "size":  1712,
+                      "hash":  "96fbfd20c1b24f76134edefab6ac5719"
+                  },
+                  {
+                      "path":  "System/ensoul_stone_client_Classic.dat",
+                      "size":  2224,
+                      "hash":  "61df9a2e790137d348eb6c87ebe7c0d2"
+                  },
+                  {
+                      "path":  "System/EnterEventgrp.dat",
+                      "size":  6832,
+                      "hash":  "08f2e86ce5c3ad34a81447d089a7251c"
+                  },
+                  {
+                      "path":  "System/EnterEventgrp_Classic.dat",
+                      "size":  6448,
+                      "hash":  "7c0ed08d94b704783076198187136548"
+                  },
+                  {
+                      "path":  "System/Env.int",
+                      "size":  4253,
+                      "hash":  "3788178eb7408a712c6b4d4360b1534a"
+                  },
+                  {
+                      "path":  "System/EtcItemgrp.dat",
+                      "size":  152112,
+                      "hash":  "1bc4184228c155e80c06568b89851cd1"
+                  },
+                  {
+                      "path":  "System/EtcItemgrp_Classic.dat",
+                      "size":  48816,
+                      "hash":  "1afb0e7e5ecfb890686f02808a227a82"
+                  },
+                  {
+                      "path":  "System/EULA-eu.dat",
+                      "size":  176,
+                      "hash":  "e465d4caf4adf9ecc67d8e0bf4f601ed"
+                  },
+                  {
+                      "path":  "System/EventAlarmList-eu.dat",
+                      "size":  2608,
+                      "hash":  "f7cd7d560fb352dcccd72a8abfa24377"
+                  },
+                  {
+                      "path":  "System/EventAlarmList_Classic-eu.dat",
+                      "size":  1712,
+                      "hash":  "616ff1bed1791882b8344ddee9c9367d"
+                  },
+                  {
+                      "path":  "System/EventContentsGoalName-eu.dat",
+                      "size":  560,
+                      "hash":  "c163a133a9dc743b8c5bbe93f5e44c35"
+                  },
+                  {
+                      "path":  "System/EventContentsName-eu.dat",
+                      "size":  304,
+                      "hash":  "9aa1f1842b0831ac1baf4973ed137c1d"
+                  },
+                  {
+                      "path":  "System/EventLookChange.dat",
+                      "size":  2480,
+                      "hash":  "c2b73f1a4f12a635f3582b68e2187bca"
+                  },
+                  {
+                      "path":  "System/ExceptionMinimapData.dat",
+                      "size":  2096,
+                      "hash":  "30f1ea5a4936c1db797a37ef0c0a5eda"
+                  },
+                  {
+                      "path":  "System/ExceptionMinimapData_Classic.dat",
+                      "size":  1584,
+                      "hash":  "5ac5b8a94f033658f7abb1981b0ae5a1"
+                  },
+                  {
+                      "path":  "System/faceexgrp.dat",
+                      "size":  1200,
+                      "hash":  "161e3ab3cb1bbeb99f62b3c343daf5fb"
+                  },
+                  {
+                      "path":  "System/faceExName-eu.dat",
+                      "size":  688,
+                      "hash":  "d35a8f757ad0eed7d5c1a33bd3d0aef8"
+                  },
+                  {
+                      "path":  "System/FactionName-eu.dat",
+                      "size":  2992,
+                      "hash":  "7568d8d711291f42c0093b99a676b50d"
+                  },
+                  {
+                      "path":  "System/ffmpegsumo.dll",
+                      "size":  961536,
+                      "hash":  "6df3e9fdbeecfc0e08477427d28a4ef5"
+                  },
+                  {
+                      "path":  "System/Fire.dll",
+                      "size":  193024,
+                      "hash":  "ffe80ddbcd0e641d0b83f5f82b80a114"
+                  },
+                  {
+                      "path":  "System/Fire.u",
+                      "size":  6797,
+                      "hash":  "fbb5800c83c9eb50bb4c18ecdbed35d3"
+                  },
+                  {
+                      "path":  "System/FixedTimeEnv0.int",
+                      "size":  27238,
+                      "hash":  "778e60b3c02b82426fbeddf8c6faab7d"
+                  },
+                  {
+                      "path":  "System/FlashConfig.dat",
+                      "size":  1072,
+                      "hash":  "e89c674f4968df557d8fe845021e5b5b"
+                  },
+                  {
+                      "path":  "System/FlyMoveName-eu.dat",
+                      "size":  944,
+                      "hash":  "059ee51e2188370674f15e67bc7a2403"
+                  },
+                  {
+                      "path":  "System/FlyMoveName_Classic-eu.dat",
+                      "size":  816,
+                      "hash":  "42e6a4b2b2373289b7ac8fde6fb0fa11"
+                  },
+                  {
+                      "path":  "System/fmodex.dll",
+                      "size":  798720,
+                      "hash":  "db26fde7c26a2c4ae9babfe7e9de87d4"
+                  },
+                  {
+                      "path":  "System/FullArmorEnchantEffectData.dat",
+                      "size":  176,
+                      "hash":  "16ef77baaa0dc673f2048d35070049f6"
+                  },
+                  {
+                      "path":  "System/GameDataBase-eu.dat",
+                      "size":  2992,
+                      "hash":  "2e1feba1d8df4b5131f7aa40273ccedc"
+                  },
+                  {
+                      "path":  "System/GameDataBase_Classic-eu.dat",
+                      "size":  688,
+                      "hash":  "3a105ccb205c1e541d583c8a833df5ed"
+                  },
+                  {
+                      "path":  "System/GamePlay.u",
+                      "size":  106478,
+                      "hash":  "2fde8c0282db2e3f59dd66cf4a7e4e0c"
+                  },
+                  {
+                      "path":  "System/GameTip-eu.dat",
+                      "size":  24624,
+                      "hash":  "0662b28a81023ef133308931fcc20caa"
+                  },
+                  {
+                      "path":  "System/GameTip_Classic-eu.dat",
+                      "size":  24496,
+                      "hash":  "386a5af9090ee3f846c27b856f49ac76"
+                  },
+                  {
+                      "path":  "System/GoodsIcon.dat",
+                      "size":  176,
+                      "hash":  "ffd687858f3bbcd1322f985b18b54a6f"
+                  },
+                  {
+                      "path":  "System/Hair.int",
+                      "size":  116121,
+                      "hash":  "be79c376cc88d25ff93a6fcff07bcfe2"
+                  },
+                  {
+                      "path":  "System/Hairaccessorylocgrp.dat",
+                      "size":  3888,
+                      "hash":  "f76e0885ec84a893c4172dd45fc11b4a"
+                  },
+                  {
+                      "path":  "System/hairexgrp.dat",
+                      "size":  3760,
+                      "hash":  "9d9ad7eb3d6494fa1094f57ae030d458"
+                  },
+                  {
+                      "path":  "System/hairExName-eu.dat",
+                      "size":  3504,
+                      "hash":  "9e5d004a0c8ae788780953f1877f2f5d"
+                  },
+                  {
+                      "path":  "System/Hennagrp-eu.dat",
+                      "size":  7088,
+                      "hash":  "04651e5618c98ac4a4f33d08bc617df1"
+                  },
+                  {
+                      "path":  "System/Hennagrp_Classic-eu.dat",
+                      "size":  3888,
+                      "hash":  "d79189b3e545e75a308ff77cc368dfe2"
+                  },
+                  {
+                      "path":  "System/HuntingZone-eu.dat",
+                      "size":  9392,
+                      "hash":  "effc01768eb8154670dc4356ae263d8d"
+                  },
+                  {
+                      "path":  "System/HuntingZone_Classic-eu.dat",
+                      "size":  17200,
+                      "hash":  "06684f7a6dc9f1bd81e84c6203742d49"
+                  },
+                  {
+                      "path":  "System/icudt.dll",
+                      "size":  9957960,
+                      "hash":  "694570c2c8dfcc4942bc11da39981252"
+                  },
+                  {
+                      "path":  "System/icudt42.dll",
+                      "size":  10947384,
+                      "hash":  "1137214e8e4fbc4152a347e0d6feb076"
+                  },
+                  {
+                      "path":  "System/icudtl.dat",
+                      "size":  10207504,
+                      "hash":  "d59b13c25b710107cea7ad1462c1b077"
+                  },
+                  {
+                      "path":  "System/ime.xml",
+                      "size":  10621,
+                      "hash":  "e85be7152b648db42699578c210e2ec7"
+                  },
+                  {
+                      "path":  "System/InstantZoneData-eu.dat",
+                      "size":  2736,
+                      "hash":  "ae2d58e05d9141cb290baed3732e6254"
+                  },
+                  {
+                      "path":  "System/InstantZoneData_Classic-eu.dat",
+                      "size":  432,
+                      "hash":  "cc5e8a240a41a2f4cd4e496d7d448c5f"
+                  },
+                  {
+                      "path":  "System/Interface.u",
+                      "size":  3236862,
+                      "hash":  "49b574f117011efa949d99f7c80189f1"
+                  },
+                  {
+                      "path":  "System/Interface.xdat",
+                      "size":  2813643,
+                      "hash":  "6ccf8122df325478905bfb25775a5607"
+                  },
+                  {
+                      "path":  "System/ItemName-eu.dat",
+                      "size":  891056,
+                      "hash":  "0bbb28d286bd5fb57d0b362815b593b7"
+                  },
+                  {
+                      "path":  "System/ItemName_Classic-eu.dat",
+                      "size":  264624,
+                      "hash":  "22fa9cc693e49cf721224133754c9728"
+                  },
+                  {
+                      "path":  "System/ItemStatData.dat",
+                      "size":  140976,
+                      "hash":  "0a6282e89da444cb8de12226aaf0fa6e"
+                  },
+                  {
+                      "path":  "System/ItemStatData_Classic.dat",
+                      "size":  34096,
+                      "hash":  "5a8b6aa1e38524c62287867b95265817"
+                  },
+                  {
+                      "path":  "System/item_baseinfo.dat",
+                      "size":  104368,
+                      "hash":  "96ef3459d173c211985c04385b40fc86"
+                  },
+                  {
+                      "path":  "System/item_baseinfo_Classic.dat",
+                      "size":  28336,
+                      "hash":  "7ac3f3bd6927b38c80d01803942da0f3"
+                  },
+                  {
+                      "path":  "System/L2.exe",
+                      "size":  1424896,
+                      "hash":  "bbccfecda78cce6e7d6503b56c4ecd7a"
+                  },
+                  {
+                      "path":  "System/L2.ini",
+                      "size":  4272,
+                      "hash":  "17431545f51124da6d6a0d03306bf6a9"
+                  },
+                  {
+                      "path":  "System/l2.int",
+                      "size":  143,
+                      "hash":  "f417c2983884adc5b8caa7edfce65053"
+                  },
+                  {
+                      "path":  "System/L2.rar",
+                      "size":  4412,
+                      "hash":  "d16890977101a8f232a55b11b7b7537c"
+                  },
+                  {
+                      "path":  "System/L2CompiledShader.bin",
+                      "size":  995527,
+                      "hash":  "446c8d7287f3e82b4c06f46ccd0fd4e8"
+                  },
+                  {
+                      "path":  "System/L2ForecF.ffe",
+                      "size":  3496,
+                      "hash":  "e73d3c7ef6e046344a1970691189fed9"
+                  },
+                  {
+                      "path":  "System/L2GameDataName.dat",
+                      "size":  671920,
+                      "hash":  "b77ad4406620692574161be391726085"
+                  },
+                  {
+                      "path":  "System/L2PreCompiledShader.bin",
+                      "size":  58539,
+                      "hash":  "2a4d1358c4f2e19e7e2789d163ba3768"
+                  },
+                  {
+                      "path":  "System/L2_20260424_110236.dmp",
+                      "size":  97019,
+                      "hash":  "08d76ed84f7d47216c6d20ff4e57e5c7"
+                  },
+                  {
+                      "path":  "System/L2_20260424_110330.dmp",
+                      "size":  97019,
+                      "hash":  "5efbdca188d28f4c6d9bd1bbe6f7dea1"
+                  },
+                  {
+                      "path":  "System/L2_20260424_113243.dmp",
+                      "size":  97019,
+                      "hash":  "1332b4217e240673e0ce1555269fa2f4"
+                  },
+                  {
+                      "path":  "System/LargeFont-eu.gly",
+                      "size":  1540,
+                      "hash":  "e091ba6d6fed75db82be098d1f78f07e"
+                  },
+                  {
+                      "path":  "System/LargeFont.gly",
+                      "size":  185612,
+                      "hash":  "e40ecf73c312083fbd1dae6770bd068b"
+                  },
+                  {
+                      "path":  "System/libcef.dll",
+                      "size":  45069312,
+                      "hash":  "56ac406213903c728796ca08e1a8fdda"
+                  },
+                  {
+                      "path":  "System/libEGL.dll",
+                      "size":  74752,
+                      "hash":  "4dbd4206d11e44dd270e0c612b67885e"
+                  },
+                  {
+                      "path":  "System/libGLESv2.dll",
+                      "size":  1643008,
+                      "hash":  "2b4643f0d464fca337db834693c57738"
+                  },
+                  {
+                      "path":  "System/LineageDeco.u",
+                      "size":  4911,
+                      "hash":  "402b04b55f339881aa7a8f7f2e8f09fe"
+                  },
+                  {
+                      "path":  "System/LineageEffect.u",
+                      "size":  30792761,
+                      "hash":  "6a4b5350de64c9b424754be0325a0f59"
+                  },
+                  {
+                      "path":  "System/LineageEffect2.u",
+                      "size":  8680319,
+                      "hash":  "d5a5d9cca2e24e072273f6e731f9426c"
+                  },
+                  {
+                      "path":  "System/LineageEffect_Br.u",
+                      "size":  1214919,
+                      "hash":  "bf3f6db89b6264d6b5eb34ef71d9c90b"
+                  },
+                  {
+                      "path":  "System/LineageGameplay.u",
+                      "size":  8745,
+                      "hash":  "8d726bc8af1d973b25b6bd0d78287c8e"
+                  },
+                  {
+                      "path":  "System/LineageMonster.u",
+                      "size":  184821,
+                      "hash":  "4dbc87641771a2401f611f1fcb4bb672"
+                  },
+                  {
+                      "path":  "System/LineageMonster10.u",
+                      "size":  13056,
+                      "hash":  "483689e3dd36fa87ae1e88faf70ad6c2"
+                  },
+                  {
+                      "path":  "System/LineageMonster11.u",
+                      "size":  9072,
+                      "hash":  "e61d5c066d3a8838669a5807891757de"
+                  },
+                  {
+                      "path":  "System/LineageMonster12.u",
+                      "size":  15290,
+                      "hash":  "9fcf1bff4c435216a09f8968fc77ce46"
+                  },
+                  {
+                      "path":  "System/LineageMonster13.u",
+                      "size":  70340,
+                      "hash":  "0c4549bad605600f8158ecd2582e5a1a"
+                  },
+                  {
+                      "path":  "System/LineageMonster2.u",
+                      "size":  86274,
+                      "hash":  "160ae8b37b9381e3550394b86eb14081"
+                  },
+                  {
+                      "path":  "System/LineageMonster3.u",
+                      "size":  94358,
+                      "hash":  "f2d47a23eebe83279534fc18308cdd72"
+                  },
+                  {
+                      "path":  "System/LineageMonster4.u",
+                      "size":  99546,
+                      "hash":  "533c585cf0ce741f57b217301395fecb"
+                  },
+                  {
+                      "path":  "System/LineageMonster5.u",
+                      "size":  62011,
+                      "hash":  "78cbd28b2cd281c4118742a0250971aa"
+                  },
+                  {
+                      "path":  "System/LineageMonster6.u",
+                      "size":  24541,
+                      "hash":  "d19f82ea62f00ff0d932e93136ecd1b8"
+                  },
+                  {
+                      "path":  "System/LineageMonster7.u",
+                      "size":  124589,
+                      "hash":  "96137ab5414a568a42c2dbfdd3bfa787"
+                  },
+                  {
+                      "path":  "System/LineageMonster8.u",
+                      "size":  6992,
+                      "hash":  "3eed810ccb182e17f8562392b89befc4"
+                  },
+                  {
+                      "path":  "System/LineageMonster9.u",
+                      "size":  21118,
+                      "hash":  "4cdbb03f9dd287c46cf9d52ad5ef901f"
+                  },
+                  {
+                      "path":  "System/LineageMonster99.u",
+                      "size":  8027,
+                      "hash":  "d98c73f88c192758c3334db21b6e6ec4"
+                  },
+                  {
+                      "path":  "System/LineageNpc.u",
+                      "size":  100363,
+                      "hash":  "ebe6597bd86d14f9e2699cc9412a760a"
+                  },
+                  {
+                      "path":  "System/LineageNpc2.u",
+                      "size":  241220,
+                      "hash":  "deb80ede29116777172ac6f635b04612"
+                  },
+                  {
+                      "path":  "System/LineageNpc3.u",
+                      "size":  55657,
+                      "hash":  "2ce84b63607bcb0be9547cefbe5409f4"
+                  },
+                  {
+                      "path":  "System/LineageNpc4.u",
+                      "size":  18393,
+                      "hash":  "b5565a39fa21d80fe09d384e1bd475bb"
+                  },
+                  {
+                      "path":  "System/LineageNpc5.u",
+                      "size":  46801,
+                      "hash":  "a9fe495664b6dd1949eca5c2f0ba6570"
+                  },
+                  {
+                      "path":  "System/LineageNpcEv.u",
+                      "size":  171890,
+                      "hash":  "a5ca5ce4063ab068747f7d5b1941f159"
+                  },
+                  {
+                      "path":  "System/LineageNpc_br.u",
+                      "size":  53897,
+                      "hash":  "19e10939274a574de89713d8d580166a"
+                  },
+                  {
+                      "path":  "System/LineageSceneInfo.u",
+                      "size":  387618,
+                      "hash":  "fb2bf45fab4606f751c2f36d18c08c02"
+                  },
+                  {
+                      "path":  "System/LineageSkillEffect.u",
+                      "size":  1854539,
+                      "hash":  "478a21275470e991c1b74ef7c380db19"
+                  },
+                  {
+                      "path":  "System/LineageVehicle.u",
+                      "size":  7341,
+                      "hash":  "97a07765bc49b530ddc48a29604984b0"
+                  },
+                  {
+                      "path":  "System/LineageWarrior.u",
+                      "size":  21627,
+                      "hash":  "2c44ef8028a0f36201ae07433e084bec"
+                  },
+                  {
+                      "path":  "System/LobbyTimeEnv0.int",
+                      "size":  27727,
+                      "hash":  "c4252b76addb9046e51dc9f69a9716eb"
+                  },
+                  {
+                      "path":  "System/LobbyTimeEnv0_Classic.int",
+                      "size":  28109,
+                      "hash":  "5c3325d9003b3a38f7325d02437bf76e"
+                  },
+                  {
+                      "path":  "System/Localization.ini",
+                      "size":  10016,
+                      "hash":  "22759e8b4060d223caea542e2fdfb277"
+                  },
+                  {
+                      "path":  "System/Logongrp.dat",
+                      "size":  176,
+                      "hash":  "50bf372718eb98674085c98c953ee364"
+                  },
+                  {
+                      "path":  "System/Logongrp_Classic.dat",
+                      "size":  176,
+                      "hash":  "50bf372718eb98674085c98c953ee364"
+                  },
+                  {
+                      "path":  "System/LollyCubeData.dat",
+                      "size":  176,
+                      "hash":  "a908768f641aa459b3a2669e13740907"
+                  },
+                  {
+                      "path":  "System/MantleException.dat",
+                      "size":  688,
+                      "hash":  "e1845385c7a8b94cd610fbf5ffa4f715"
+                  },
+                  {
+                      "path":  "System/MinimapRegion.dat",
+                      "size":  3760,
+                      "hash":  "9bbd6d311b49ec6bd99933cfceb5af8b"
+                  },
+                  {
+                      "path":  "System/MinimapRegion_Classic.dat",
+                      "size":  2480,
+                      "hash":  "a22ce0cdef127c80aab6908c2e2dfdb4"
+                  },
+                  {
+                      "path":  "System/MobSkillAnimgrp.dat",
+                      "size":  41392,
+                      "hash":  "942f4c6d52e6bb1b283e72e4dd9c7107"
+                  },
+                  {
+                      "path":  "System/MobSkillAnimgrp_Classic.dat",
+                      "size":  43696,
+                      "hash":  "adf86dcde54f0d2d0b7763c3c82aebe8"
+                  },
+                  {
+                      "path":  "System/MonsterBook_client.dat",
+                      "size":  4784,
+                      "hash":  "fa77145c732d9039f656c95d9e1df936"
+                  },
+                  {
+                      "path":  "System/MSConditionData.dat",
+                      "size":  323504,
+                      "hash":  "1a757cff40560be37b427a861f3bd2b0"
+                  },
+                  {
+                      "path":  "System/MSConditionData_Classic.dat",
+                      "size":  45616,
+                      "hash":  "fd3779fbf8d850596ff0916a9296d9b6"
+                  },
+                  {
+                      "path":  "System/msxml4.dll",
+                      "size":  1275392,
+                      "hash":  "17a9f3bb60c391c7446e8e03aa3553e6"
+                  },
+                  {
+                      "path":  "System/msxml4a.dll",
+                      "size":  44544,
+                      "hash":  "ba674e08fd014aa1289bf2aeea4962a6"
+                  },
+                  {
+                      "path":  "System/msxml4r.dll",
+                      "size":  82432,
+                      "hash":  "04f01d9547e45d7864ab281725681d6a"
+                  },
+                  {
+                      "path":  "System/MusicInfo.dat",
+                      "size":  5552,
+                      "hash":  "e6a59ff5c3761f763155b5e60305ba30"
+                  },
+                  {
+                      "path":  "System/MusicInfo_Classic.dat",
+                      "size":  3888,
+                      "hash":  "0108646f9e7d0357212ca5c01192aaea"
+                  },
+                  {
+                      "path":  "System/natives_blob.bin",
+                      "size":  410937,
+                      "hash":  "6a85e2542e9cece0220c057d1b911461"
+                  },
+                  {
+                      "path":  "System/Npcgrp.dat",
+                      "size":  334256,
+                      "hash":  "936247adbe7527b392cd48a2a349dd07"
+                  },
+                  {
+                      "path":  "System/Npcgrp_Classic.dat",
+                      "size":  134960,
+                      "hash":  "4db7e80fe609e29fd6a411ddd1813553"
+                  },
+                  {
+                      "path":  "System/NpcName-eu.dat",
+                      "size":  120496,
+                      "hash":  "4c44919b869f7a74c259949d5fa9c327"
+                  },
+                  {
+                      "path":  "System/NpcName_Classic-eu.dat",
+                      "size":  49456,
+                      "hash":  "a60330f30069cc444883367828a96a12"
+                  },
+                  {
+                      "path":  "System/NpcString-eu.dat",
+                      "size":  251312,
+                      "hash":  "b422de0b26440ab395c6ddbd54ee02e6"
+                  },
+                  {
+                      "path":  "System/NpcString_Classic-eu.dat",
+                      "size":  208816,
+                      "hash":  "1b91b80d469c21a2394014ac6ab9eb4f"
+                  },
+                  {
+                      "path":  "System/NPCTeleporter.dat",
+                      "size":  688,
+                      "hash":  "c944e8f9df906687567216cc2a504c45"
+                  },
+                  {
+                      "path":  "System/NPCTeleporter_Classic.dat",
+                      "size":  560,
+                      "hash":  "a533c99a5b5834df4bc1554c2e2c0892"
+                  },
+                  {
+                      "path":  "System/npkcrypt.dll",
+                      "size":  420472,
+                      "hash":  "e7d050c9377bbedb782ede3094e979fa"
+                  },
+                  {
+                      "path":  "System/npkpdb.dll",
+                      "size":  53248,
+                      "hash":  "1fc78ae657b3f3a5cee688071ac2878d"
+                  },
+                  {
+                      "path":  "System/NPSWF32.dll",
+                      "size":  17599688,
+                      "hash":  "863af0003392febc2667a8a790ded955"
+                  },
+                  {
+                      "path":  "System/nservice_topping_buff.dat",
+                      "size":  176,
+                      "hash":  "87cd52edb31175422fb40ddace9735d2"
+                  },
+                  {
+                      "path":  "System/nservice_topping_buff_Classic.dat",
+                      "size":  176,
+                      "hash":  "39a5c4f9ec246a3c1c1849b06ccbd57c"
+                  },
+                  {
+                      "path":  "System/NSplash.dll",
+                      "size":  84992,
+                      "hash":  "f9d0e55d76c6c58dac8ea0ee82b9c00c"
+                  },
+                  {
+                      "path":  "System/NWindow.dll",
+                      "size":  14437048,
+                      "hash":  "966583228e6f29dd9ac3a3568a84c21b"
+                  },
+                  {
+                      "path":  "System/NWindow.u",
+                      "size":  416453,
+                      "hash":  "f181b690009bbca63c0f85e805293dcc"
+                  },
+                  {
+                      "path":  "System/Obscene-eu.dat",
+                      "size":  304,
+                      "hash":  "08414f1587eed1fc6522827fea59df94"
+                  },
+                  {
+                      "path":  "System/ogg.dll",
+                      "size":  61440,
+                      "hash":  "c91f2303496c98de89adff6db471a3b4"
+                  },
+                  {
+                      "path":  "System/OneDayReward_Classic-eu.dat",
+                      "size":  6448,
+                      "hash":  "f74c879becddc325532e0b0f179186f9"
+                  },
+                  {
+                      "path":  "System/Option.ini",
+                      "size":  3033,
+                      "hash":  "f1457243b9fb9819f90dd7f6d70212aa"
+                  },
+                  {
+                      "path":  "System/optiondata_client-eu.dat",
+                      "size":  231472,
+                      "hash":  "6412b945b3d5c55ead3c3d1597950e87"
+                  },
+                  {
+                      "path":  "System/optiondata_client_Classic-eu.dat",
+                      "size":  37680,
+                      "hash":  "7fa7d8f1c04bd7a975b80aec3f554139"
+                  },
+                  {
+                      "path":  "System/PawnAnimData.dat",
+                      "size":  217392,
+                      "hash":  "87f25c915c8891b1fecb8592dcec021a"
+                  },
+                  {
+                      "path":  "System/PledgeLevelDesc-eu.dat",
+                      "size":  304,
+                      "hash":  "7a0f6bde18e0da2f9dd531b3d4df23d1"
+                  },
+                  {
+                      "path":  "System/PledgeMasteryInfo-eu.dat",
+                      "size":  688,
+                      "hash":  "ab6ae5522dfc90fd3558fdcb14f577ad"
+                  },
+                  {
+                      "path":  "System/PledgeMission-eu.dat",
+                      "size":  5552,
+                      "hash":  "ac8612f595fb44c5fde4f3ef89a4d9ce"
+                  },
+                  {
+                      "path":  "System/PostEffectData.dat",
+                      "size":  304,
+                      "hash":  "ca3efc20f8f4affac12d459684635fb7"
+                  },
+                  {
+                      "path":  "System/Predefinedshader.bin",
+                      "size":  146380,
+                      "hash":  "5393beb74cf9963391e33e9befc2ad98"
+                  },
+                  {
+                      "path":  "System/ProductName-eu.dat",
+                      "size":  17968,
+                      "hash":  "1ef0fb9db308b9973ad7df4b70413db7"
+                  },
+                  {
+                      "path":  "System/ProductName_Classic-eu.dat",
+                      "size":  1584,
+                      "hash":  "6a41b2af3a708b155f30630e0d3107d9"
+                  },
+                  {
+                      "path":  "System/QuestMarkConditionData.dat",
+                      "size":  816,
+                      "hash":  "c99a70a70bc6a6ef418d0bde755767c5"
+                  },
+                  {
+                      "path":  "System/QuestMarkConditionData_Classic.dat",
+                      "size":  816,
+                      "hash":  "c99a70a70bc6a6ef418d0bde755767c5"
+                  },
+                  {
+                      "path":  "System/QuestName-eu.dat",
+                      "size":  233008,
+                      "hash":  "39715c34fc99d382625b77bc5d6032ad"
+                  },
+                  {
+                      "path":  "System/QuestName_Classic-eu.dat",
+                      "size":  112688,
+                      "hash":  "8c9928d5c37c9e6c14667e8b53525f23"
+                  },
+                  {
+                      "path":  "System/RaidData-eu.dat",
+                      "size":  2608,
+                      "hash":  "2368e898b3e0c982e36b42862d519fb2"
+                  },
+                  {
+                      "path":  "System/RaidData_Classic-eu.dat",
+                      "size":  2992,
+                      "hash":  "1c1a033d5ae74898bd67f07cdd76f6f3"
+                  },
+                  {
+                      "path":  "System/Recipe.dat",
+                      "size":  43952,
+                      "hash":  "c6a1226dcb46d33127279ad824d6519f"
+                  },
+                  {
+                      "path":  "System/Recipe_Classic.dat",
+                      "size":  20272,
+                      "hash":  "73b6ef937eeb9956ef64fc6b1f5e486a"
+                  },
+                  {
+                      "path":  "System/RideData.dat",
+                      "size":  1328,
+                      "hash":  "b93005aed801e3b4f6c6f5e5ce15cb58"
+                  },
+                  {
+                      "path":  "System/RideData_Classic.dat",
+                      "size":  432,
+                      "hash":  "583a95714ee4f2366f50a12accf9a2cc"
+                  },
+                  {
+                      "path":  "System/ScenePlayerData.dat",
+                      "size":  944,
+                      "hash":  "07088e068f7e27be5cd3a2811546ac36"
+                  },
+                  {
+                      "path":  "System/ServerName-eu.dat",
+                      "size":  1200,
+                      "hash":  "ded56762f93a5b13a94233882e400398"
+                  },
+                  {
+                      "path":  "System/SetItemGrp-eu.dat",
+                      "size":  15536,
+                      "hash":  "6986bd79e46b337924f3a269b07f7299"
+                  },
+                  {
+                      "path":  "System/SetItemGrp_Classic-eu.dat",
+                      "size":  2992,
+                      "hash":  "617541790bbdd9a01fd3b56b80416921"
+                  },
+                  {
+                      "path":  "System/ShortcutAlias.dat",
+                      "size":  2224,
+                      "hash":  "931a0b7f412dd5c152de42a2c3216e21"
+                  },
+                  {
+                      "path":  "System/ShortcutAlias_Classic.dat",
+                      "size":  2224,
+                      "hash":  "931a0b7f412dd5c152de42a2c3216e21"
+                  },
+                  {
+                      "path":  "System/ShuttleData.dat",
+                      "size":  176,
+                      "hash":  "f68e8ee292d29e9e8be3a84fd0fde54b"
+                  },
+                  {
+                      "path":  "System/ShuttleData_Classic.dat",
+                      "size":  176,
+                      "hash":  "f68e8ee292d29e9e8be3a84fd0fde54b"
+                  },
+                  {
+                      "path":  "System/Skillgrp.dat",
+                      "size":  676784,
+                      "hash":  "0cb941d1e5ab439d5860e9c88b36fa20"
+                  },
+                  {
+                      "path":  "System/Skillgrp_Classic.dat",
+                      "size":  231216,
+                      "hash":  "4e929e0dca43a2c49c6ddbd95c035227"
+                  },
+                  {
+                      "path":  "System/SkillName-eu.dat",
+                      "size":  1300656,
+                      "hash":  "46ef04c734245450167ce75ecffdd14c"
+                  },
+                  {
+                      "path":  "System/SkillName_Classic-eu.dat",
+                      "size":  431920,
+                      "hash":  "912f368446b7a73ab86575c89d80ca68"
+                  },
+                  {
+                      "path":  "System/SkillSoundgrp.dat",
+                      "size":  119344,
+                      "hash":  "c59e743a1b75881d1516abf74638bb07"
+                  },
+                  {
+                      "path":  "System/SkillSoundgrp_Classic.dat",
+                      "size":  100016,
+                      "hash":  "41fe0226f0328903deb9faf8e53b77ae"
+                  },
+                  {
+                      "path":  "System/SkillSoundSource.dat",
+                      "size":  30768,
+                      "hash":  "5a07c21fe42776faf25595252a3dccbc"
+                  },
+                  {
+                      "path":  "System/SkillSoundSource_Classic.dat",
+                      "size":  27056,
+                      "hash":  "f7c825c1bb4ce627b54f3bc1ea6cb2b7"
+                  },
+                  {
+                      "path":  "System/SmallFont-eu.gly",
+                      "size":  1540,
+                      "hash":  "99499a27119947e89a7a101f6a02939f"
+                  },
+                  {
+                      "path":  "System/SmallFont.gly",
+                      "size":  181780,
+                      "hash":  "58d236a3227b7e05c4c7a6e8b34c1fc1"
+                  },
+                  {
+                      "path":  "System/snapshot_blob.bin",
+                      "size":  449780,
+                      "hash":  "46328601094a412ff7f1566fd1c56dcb"
+                  },
+                  {
+                      "path":  "System/soulshot.int",
+                      "size":  2730,
+                      "hash":  "7dc8276e5b1950869f5b9a3ad27c5ca1"
+                  },
+                  {
+                      "path":  "System/soulshot_arena.int",
+                      "size":  2709,
+                      "hash":  "5b3fd2ab1826804ddafec51a21403a27"
+                  },
+                  {
+                      "path":  "System/StaticObject-eu.dat",
+                      "size":  3760,
+                      "hash":  "6365ff1f36c64a3fa7004927e39031b6"
+                  },
+                  {
+                      "path":  "System/StaticObject_Classic-eu.dat",
+                      "size":  3504,
+                      "hash":  "36d144f947cb5bd865f961b04191d2c5"
+                  },
+                  {
+                      "path":  "System/StatisticName-eu.dat",
+                      "size":  2352,
+                      "hash":  "a776fbb1b0420ddaec7c044afef723ab"
+                  },
+                  {
+                      "path":  "System/steam_api.dll",
+                      "size":  186560,
+                      "hash":  "a3eee0df77b658fc94231c94e511cce0"
+                  },
+                  {
+                      "path":  "System/SymbolName-eu.dat",
+                      "size":  432,
+                      "hash":  "db51a6ff7587d0631b9ff5ee2716f4df"
+                  },
+                  {
+                      "path":  "System/SymbolName_Classic-eu.dat",
+                      "size":  304,
+                      "hash":  "78f7d5694124731e0e80746b0595b17e"
+                  },
+                  {
+                      "path":  "System/SysString-eu.dat",
+                      "size":  53296,
+                      "hash":  "1e6e86a85cb9a8a3c94025fb76713a40"
+                  },
+                  {
+                      "path":  "System/SysString_Classic-eu.dat",
+                      "size":  45232,
+                      "hash":  "00c6da97f50c1951cdea1f62d8b6f5d6"
+                  },
+                  {
+                      "path":  "System/SystemMsg-eu.dat",
+                      "size":  150192,
+                      "hash":  "713d94e43f4625589d198fb2296c8901"
+                  },
+                  {
+                      "path":  "System/SystemMsg_Classic-eu.dat",
+                      "size":  140080,
+                      "hash":  "d671b89059f690e349f2c9887cdeea88"
+                  },
+                  {
+                      "path":  "System/TimeEnv0.int",
+                      "size":  27965,
+                      "hash":  "ed9c6fb2662683d8c8100d4ff4f76f02"
+                  },
+                  {
+                      "path":  "System/TimeEnv1.int",
+                      "size":  27008,
+                      "hash":  "ec088be29a257b121911a19a72c07970"
+                  },
+                  {
+                      "path":  "System/TimeEnv2.int",
+                      "size":  27022,
+                      "hash":  "7e67ea35a330a1e21a8ebd87c2ff91b8"
+                  },
+                  {
+                      "path":  "System/TimeEnv3.int",
+                      "size":  27786,
+                      "hash":  "c7b5b24b4a75cd1d25dc37e01afe68bc"
+                  },
+                  {
+                      "path":  "System/TimeEnv4.int",
+                      "size":  5124,
+                      "hash":  "579c8fc2137b255660e5863ff50b9f1d"
+                  },
+                  {
+                      "path":  "System/TimeEnv5.int",
+                      "size":  5194,
+                      "hash":  "118c3e293a72f4fd2f7a7b8b9c425a23"
+                  },
+                  {
+                      "path":  "System/TransformData.dat",
+                      "size":  1840,
+                      "hash":  "3840daa3f75b844fa4d89fa0c5679d2b"
+                  },
+                  {
+                      "path":  "System/TransformData_Classic.dat",
+                      "size":  432,
+                      "hash":  "83769b9103b2d26538da8ac0f6c3bb9c"
+                  },
+                  {
+                      "path":  "System/TTFontInfo.ini",
+                      "size":  775,
+                      "hash":  "e218e468803828abe878e169e8655f50"
+                  },
+                  {
+                      "path":  "System/TutorialName-eu.dat",
+                      "size":  37680,
+                      "hash":  "1d05fcced48c644d0cc87a99c0e063af"
+                  },
+                  {
+                      "path":  "System/TutorialName_Classic-eu.dat",
+                      "size":  432,
+                      "hash":  "7599471e2b51fac9a3793c2cb3dffc55"
+                  },
+                  {
+                      "path":  "System/UDebugMenu.u",
+                      "size":  183361,
+                      "hash":  "173f9e372ee9dc9cc3b3075064d1e2d8"
+                  },
+                  {
+                      "path":  "System/UIStats.int",
+                      "size":  134,
+                      "hash":  "188c8444e578edf1e6b9e68ef02f8fec"
+                  },
+                  {
+                      "path":  "System/UpgradeSystem.dat",
+                      "size":  28208,
+                      "hash":  "dae1bfe55104a160e739a35aa832da29"
+                  },
+                  {
+                      "path":  "System/UpgradeSystem_Classic.dat",
+                      "size":  688,
+                      "hash":  "2fa83d46a4dbbe2fe5a7814c7bf0edc4"
+                  },
+                  {
+                      "path":  "System/UpgradeSystem_Normal.dat",
+                      "size":  304,
+                      "hash":  "b94c01fc02ce7a415ae43dce1a8da75e"
+                  },
+                  {
+                      "path":  "System/UpgradeSystem_Normal_Classic.dat",
+                      "size":  153264,
+                      "hash":  "12ea83086dd8c6d19e5594a9e0f454c1"
+                  },
+                  {
+                      "path":  "System/UseCountItem.dat",
+                      "size":  432,
+                      "hash":  "3a98037016e4e47df1ada68fe6003622"
+                  },
+                  {
+                      "path":  "System/UseCountItem_Classic.dat",
+                      "size":  304,
+                      "hash":  "af9b20e88f18a6b434bfc2930216a484"
+                  },
+                  {
+                      "path":  "System/User.ini",
+                      "size":  5936,
+                      "hash":  "ee3628173a874c2e938b9a9e769ffeaf"
+                  },
+                  {
+                      "path":  "System/UsmMovieData-eu.dat",
+                      "size":  432,
+                      "hash":  "a6583126827bf4416d0cb841def37e67"
+                  },
+                  {
+                      "path":  "System/UWindow.u",
+                      "size":  380765,
+                      "hash":  "6f599ecae137af7d0d06bcf4208f4bcf"
+                  },
+                  {
+                      "path":  "System/variationeffectgrp-eu.dat",
+                      "size":  1584,
+                      "hash":  "d005813a1f12809b19f677971c42bf73"
+                  },
+                  {
+                      "path":  "System/variationeffectgrp_Classic-eu.dat",
+                      "size":  1200,
+                      "hash":  "b0bc75ea55ba26087b0b9903ec0b2293"
+                  },
+                  {
+                      "path":  "System/vcomp120.dll",
+                      "size":  119456,
+                      "hash":  "27bc360d67f269a61bb052e10c9fceeb"
+                  },
+                  {
+                      "path":  "System/VehiclePartsGrp.dat",
+                      "size":  304,
+                      "hash":  "0af3f7e8108d4860e2f0db03dc01e0f5"
+                  },
+                  {
+                      "path":  "System/vorbis.dll",
+                      "size":  249856,
+                      "hash":  "15bdcd1922690a8f1c41bb29070fafc9"
+                  },
+                  {
+                      "path":  "System/vorbisfile.dll",
+                      "size":  106496,
+                      "hash":  "f60ea68e1577fd92567e6da9364d28ab"
+                  },
+                  {
+                      "path":  "System/WeaponEnchantEffectData.dat",
+                      "size":  688,
+                      "hash":  "3af891dda517e085573fa833584fabbe"
+                  },
+                  {
+                      "path":  "System/WeaponEnchantEffectData_Classic.dat",
+                      "size":  816,
+                      "hash":  "74d4c893f546059f451b755fd1764501"
+                  },
+                  {
+                      "path":  "System/Weapongrp.dat",
+                      "size":  210096,
+                      "hash":  "058e5d61082cb20d6e8e9e6324630271"
+                  },
+                  {
+                      "path":  "System/Weapongrp_Classic.dat",
+                      "size":  45616,
+                      "hash":  "fd7f72d37bbf0eb05b6131c1dd364a2e"
+                  },
+                  {
+                      "path":  "System/Wform.bm",
+                      "size":  526985,
+                      "hash":  "06e7177a98c87dfc6f8e39544a577c8f"
+                  },
+                  {
+                      "path":  "System/widevinecdmadapter.dll",
+                      "size":  1423360,
+                      "hash":  "327fda6edd4eb1764f322ddeeeaf7df9"
+                  },
+                  {
+                      "path":  "System/Window.dll",
+                      "size":  1454592,
+                      "hash":  "aa3bc8dceb4ff54909b22d401e967a92"
+                  },
+                  {
+                      "path":  "System/Window.int",
+                      "size":  2317,
+                      "hash":  "863b3dccd12cc91c28c86c4b2e6895a0"
+                  },
+                  {
+                      "path":  "System/WindowsInfo.ini",
+                      "size":  3702,
+                      "hash":  "0c498adf8baa8bad6ab22b6661aaafd1"
+                  },
+                  {
+                      "path":  "System/WinDrv.dll",
+                      "size":  1319424,
+                      "hash":  "7853451bef2b9d9459dbec1a323014cd"
+                  },
+                  {
+                      "path":  "System/WinDrv.int",
+                      "size":  709,
+                      "hash":  "6c80008a60583fa2416ab56e3a6f8b76"
+                  },
+                  {
+                      "path":  "System/wrap_oal.dll",
+                      "size":  409600,
+                      "hash":  "6ded3e81d8524f8d466a6a8c5273d0de"
+                  },
+                  {
+                      "path":  "System/xinput9_1_0.dll",
+                      "size":  61136,
+                      "hash":  "adfb6d7b61e301761c700652b6fe7ccd"
+                  },
+                  {
+                      "path":  "System/ZoneName-eu.dat",
+                      "size":  9008,
+                      "hash":  "23e1821dca80d40d5df26b8d300cf235"
+                  },
+                  {
+                      "path":  "System/ZoneName_Classic-eu.dat",
+                      "size":  5040,
+                      "hash":  "8b2505f969a9cbe56901e20094a44f64"
+                  },
+                  {
+                      "path":  "System/interface/L2HardcoreUI.utx",
+                      "size":  1573952,
+                      "hash":  "9c3724cfea37ad278cfe1bcfad57a2d7"
+                  },
+                  {
+                      "path":  "System/locales/en-US.dll",
+                      "size":  117048,
+                      "hash":  "7c42bf28d1fb9c55a7402f45f2911771"
+                  },
+                  {
+                      "path":  "System/locales/en-US.pak",
+                      "size":  14086,
+                      "hash":  "848ac8f8208552d518288746b6e95492"
+                  },
+                  {
+                      "path":  "System/plugins/NPSWF32_16_0_0_257.dll",
+                      "size":  16844464,
+                      "hash":  "8560995c727974f27f2a1ce68909feb9"
+                  }
+              ],
+    "version":  "1.0.0"
+}
